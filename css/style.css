@@ -383,7 +383,7 @@ mark,
 
 .img-fluid {
   max-width: 100%;
-  height: auto; }
+  height: 450px; }
 
 .img-thumbnail {
   padding: 0.25rem;
@@ -8728,7 +8728,7 @@ textarea.form-control {
   font-size: 24px; }
 
 .ftco-section {
-  padding: 7em 0;
+  padding: 4em 0;
   position: relative; }
   @media (max-width: 767.98px) {
     .ftco-section {
@@ -9153,6 +9153,7 @@ textarea.form-control {
 
 .blog-entry {
   position: relative;
+  width:100%;
   margin-bottom: 5em !important; }
   @media (min-width: 768px) {
     .blog-entry {
